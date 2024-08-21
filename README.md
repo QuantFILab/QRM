@@ -2,4 +2,4 @@
 
 ### Thammasat
 
-$$\mu =  \frac{1}{N}\sum{i = 1}^Nx_i$$
+$$\mu =  \frac{1}{N}\sum_{i = 1}^Nx_i$$
